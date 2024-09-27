@@ -1,0 +1,2 @@
+FROM docker.io/library/mariadb:10
+COPY dvwa /var/lib/mysql/dvwa
